@@ -8,4 +8,4 @@ def my_each(array)
   array
 end
 
-my_each(collection){|i| puts i}
+my_each(collection){|i|}
